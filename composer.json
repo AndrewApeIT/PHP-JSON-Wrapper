@@ -1,0 +1,17 @@
+{
+    "name": "andrewapeit/json",
+    "description": "A JSON wrapper written in PHP.",
+    "license": "UNLICENSED",
+    "autoload": {
+        "psr-4": {
+            "AndrewApeIT\\JSON\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AndrewApeIT",
+            "email": "AndrewApeIT@ProtonMail.com"
+        }
+    ],
+    "require": {}
+}
